@@ -6,6 +6,7 @@ For a demo, checkout <https://github.com/indranarayan12/ud036_StarterCode/blob/m
 
 ## Download
 The files for the project may be [downloaded here](https://github.com/indranarayan12/ud036_StarterCode/archive/master.zip).
+To see the project unzip the downloaded file and open fresh_tomatoes.html file.
 
 ## Documentation
 ### Class Movie
