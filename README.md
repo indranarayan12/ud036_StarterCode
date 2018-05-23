@@ -4,6 +4,9 @@ A simple movie trailer website that lists out my favourites movies alongwith the
 ## Demo
 For a demo, checkout <https://github.com/indranarayan12/ud036_StarterCode/blob/master/fresh_tomatoes.html>
 
+## Download
+The files for the project may be [downloaded here](https://github.com/indranarayan12/udacity-movie-trailer-project/archive/master.zip).
+
 ## Documentation
 ### Class Movie
 The Movie object class consists of four class variables, a constructor method and a class method for playing Movie object's movie trailer. The code is located in [media.py]().
