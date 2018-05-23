@@ -1,9 +1,6 @@
 # Movie-trailer-website
 A simple movie trailer website that lists out my favourites movies alongwith their trailers. The project uses a class Movie in **Python** to generate static web pages which contains links to their trailer on youtube.
 
-## Demo
-For a demo, checkout <https://github.com/indranarayan12/ud036_StarterCode/fresh_tomatoes.html>
-
 ## Download
 The files for the project may be [downloaded here](https://github.com/indranarayan12/ud036_StarterCode/archive/master.zip).
 To see the project unzip the downloaded file and open fresh_tomatoes.html file.
