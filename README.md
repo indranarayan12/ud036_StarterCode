@@ -27,4 +27,4 @@ it is a string of URL of the movie's trailer on youtube
 this method takes in the youtube URL of any object of class Movie and plays their traileron youtube.
 
 ### Movie specifications
-The favorite movies have been described in [entertainment_center.py](). [media.py]() and [fresh_tomatoes.py]() is imported and it calls a function open_movie_page of fresh_tomatoes.py which takes in a list of objects of the class Movie and opens it in the default window of the the machine fo HTML files.
+The favorite movies have been described in [entertainment_center.py](). [media.py]() and [fresh_tomatoes.py]() is imported and it calls a function open_movie_page of fresh_tomatoes.py which takes in a list of objects of the class Movie and opens it in the default window of the the machine for HTML files.
