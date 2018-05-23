@@ -5,7 +5,7 @@ A simple movie trailer website that lists out my favourites movies alongwith the
 For a demo, checkout <https://github.com/indranarayan12/ud036_StarterCode/blob/master/fresh_tomatoes.html>
 
 ## Download
-The files for the project may be [downloaded here](https://github.com/indranarayan12/udacity-movie-trailer-project/archive/master.zip).
+The files for the project may be [downloaded here](https://github.com/indranarayan12/ud036_StarterCode/archive/master.zip).
 
 ## Documentation
 ### Class Movie
