@@ -10,7 +10,7 @@ To see the project unzip the downloaded file and open fresh_tomatoes.html file.
 
 ## Documentation
 ### Class Movie
-The Movie object class consists of four class variables, a constructor method and a class method for playing Movie object's movie trailer. The code is located in [media.py]().
+The Movie object class consists of four class variables, a constructor method and a class method for playing Movie object's movie trailer. The code is located in [media.py](https://github.com/indranarayan12/ud036_StarterCode/blob/master/media.py).
 
 #### contructor method
 The class Movie consits of a constructor which is called when an object of the class is created and it takes in four parameters- [title](#movietitle), [storyline](#moviestoryline), [poster_image_url](#movieposter_image_url), and [trailer_youtube_url](#movietrailer_youtube_url).
@@ -31,4 +31,4 @@ it is a string of URL of the movie's trailer on youtube
 this method takes in the youtube URL of any object of class Movie and plays their traileron youtube.
 
 ### Movie specifications
-The favorite movies have been described in [entertainment_center.py](https://github.com/indranarayan12/ud036_StarterCode/blob/master/entertainment_center.py). [media.py]() and [fresh_tomatoes.py]() is imported and it calls a function open_movie_page of fresh_tomatoes.py which takes in a list of objects of the class Movie and opens it in the default window of the the machine for HTML files.
+The favorite movies have been described in [entertainment_center.py](https://github.com/indranarayan12/ud036_StarterCode/blob/master/entertainment_center.py). [media.py](https://github.com/indranarayan12/ud036_StarterCode/blob/master/media.py) and [fresh_tomatoes.py]() is imported and it calls a function open_movie_page of fresh_tomatoes.py which takes in a list of objects of the class Movie and opens it in the default window of the the machine for HTML files.
