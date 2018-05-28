@@ -3,7 +3,7 @@ A simple movie trailer website that lists out my favourites movies alongwith the
 
 ## Download
 The files for the project may be [downloaded here](https://github.com/indranarayan12/ud036_StarterCode/archive/master.zip).
-To see the project unzip the downloaded file and open fresh_tomatoes.html file.
+To see the project unzip the downloaded file and open fresh_tomatoes.html file or run entertainment_center.py.
 
 ## Documentation
 ### Class Movie
