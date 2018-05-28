@@ -10,7 +10,6 @@ main_page_head = '''
 <head>
     <meta charset="utf-8">
     <title>Fresh Tomatoes!</title>
-
     <!-- Bootstrap 3 -->
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap-theme.min.css">
@@ -19,6 +18,7 @@ main_page_head = '''
     <style type="text/css" media="screen">
         body {
             padding-top: 80px;
+            background-color: #1FC3BD;
         }
         #trailer .modal-dialog {
             margin-top: 200px;
@@ -36,11 +36,12 @@ main_page_head = '''
             height: 100%;
         }
         .movie-tile {
+            color: #C31F55;
             margin-bottom: 20px;
             padding-top: 20px;
         }
         .movie-tile:hover {
-            background-color: #EEE;
+            background-color: #C3811F;
             cursor: pointer;
         }
         .scale-media {
@@ -101,7 +102,6 @@ main_page_content = '''
         </div>
       </div>
     </div>
-
     <!-- Main Page Content -->
     <div class="container">
       <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
