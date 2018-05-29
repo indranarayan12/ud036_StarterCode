@@ -4,8 +4,8 @@ A simple movie trailer website that lists out my favourites movies alongwith the
 ## Download
 The files for the project may be [downloaded here](https://github.com/indranarayan12/ud036_StarterCode/archive/master.zip).
 To see the project 
--> unzip the downloaded file and open fresh_tomatoes.html file or 
--> Install Python
+1. unzip the downloaded file and open fresh_tomatoes.html file or 
+2. Install Python
    Clone the project to your local environment
    Open a shell interface and move to the project directory
    Execute python entertainment_center.py
