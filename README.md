@@ -9,7 +9,7 @@ To see the project
    Clone the project to your local environment->
    Open a shell interface and move to the project directory->
    Execute entertainment_center.py.
-/*The website is now displayed on your default web browser.
+The website is now displayed on your default web browser.
 
 ## Documentation
 ### Class Movie
