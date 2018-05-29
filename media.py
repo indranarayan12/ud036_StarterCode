@@ -1,14 +1,16 @@
 import webbrowser
 
+
 class Movie():
     """This class provides a way to store movie related information"""
-    
+
     VALID_RATINGS = ["G", "PG", "PG-13", "R"]
-    
+
     def __init__(self, movie_title, storyline, poster_image, trailer_youtube):
         """Initializes the instance variables
         movie_title     -> a string of the movie's title
-        year_of_release -> an integer corresponding to year of release of the movie
+        year_of_release -> an integer corresponding to year of release of the
+                            movie
         poster_image    -> a string of movie's poster image URL
         trailer_youtube -> a string of movie's trailer URL on youtube"""
 
