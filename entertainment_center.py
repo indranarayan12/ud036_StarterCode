@@ -47,15 +47,36 @@ avengers_infinity_war = media.Movie("Avengers Infinity War",
                                     "https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg",  # NOQA
                                     "https://www.youtube.com/watch?v=6ZfuNTqbHE8")  # NOQA
 
-the_imitation_game = media.Movie("The Imitation Game", "Storyline",
+the_imitation_game = media.Movie("The Imitation Game",
+                                "In 1939, newly created British intelligence
+                                agency MI6 recruits Cambridge mathematics
+                                alumnus Alan Turing(Benedict Cumberbatch) to
+                                crack Nazi codes, including Enigma which
+                                cryptanalysts had thought unbreakable. Turing's
+                                team, including Joan Clarke(Keira Knightley),
+                                analyze Enigma messages while he builds a
+                                machine to decipher them. Turing and team
+                                finally succeed and become heroes, but in 1952,
+                                the quiet genius encounters disgrace when
+                                authorities reveal he is gay and send him to
+                                prison.",
                              "http://t0.gstatic.com/images?q=tbn:ANd9GcQQ5vi9xgRkP0nk5aRn8tcGEGRnOQyM-aAS1ldqfQSi_69V1yfU",  # NOQA
                              "https://www.youtube.com/watch?v=nuPZUUED5uk")
 
-schindlers_list = media.Movie("Schindler's List", "storyline",
+schindlers_list = media.Movie("Schindler's List",
+                                "Oskar Schindler, a German industrialist and
+                                member of the Nazi party, tries to save his
+                                Jewish employees after witnessing the
+                                persecution of Jews in Poland.",
                                 "https://upload.wikimedia.org/wikipedia/en/3/38/Schindler%27s_List_movie.jpg",  # NOQA
                                 "https://www.youtube.com/watch?v=gG22XNhtnoY")
 
-shawshank_redemption = media.Movie("Shawshank Redemption", "Storyline",
+shawshank_redemption = media.Movie("Shawshank Redemption",
+                                    "Andy Dufresne, a successful banker, is
+                                    arrested for the murders of his wife and
+                                    her lover, and is sentenced to life
+                                    imprisonment at the Shawshank prison. He
+                                    becomes the most unconventional prisoner.",
                            "http://t0.gstatic.com/images?q=tbn:ANd9GcSkmMH-bEDUS2TmK8amBqgIMgrfzN1_mImChPuMrunA1XjNTSKm",  # NOQA
                            "https://www.youtube.com/watch?v=6hB3S9bIaco")
 
